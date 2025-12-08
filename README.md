@@ -1,0 +1,2 @@
+# Number-of-letters
+Whenever we enter text, it stores the number of repeated letters in the text as a "Value" and the letter itself as a "Key" in the dictionary.
